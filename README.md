@@ -5,3 +5,5 @@ My example is gawr gura replace sharpedo with first from of it is carvanah, I us
 and sharpedo i use gawr gura wearing a bikini.
 
 No nude
+
+(In this project i use AI to generate picture of anime girl and retouch it to make it looking good and can use with ROM.)
