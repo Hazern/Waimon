@@ -9,12 +9,17 @@ Carvanha → Gawr Gura (normal costume)
 Sharpedo → Gawr Gura (bikini version)
 
 ⚠️ No explicit NSFW content will be used in this project.
-However, fanservice-heavy characters (like swimsuit, maid, bikinis or revealing outfits) are still acceptable. 😜
+However, fanservice-heavy characters (like bikinis or revealing outfits) are still acceptable — as long as it's within a tasteful and fun context.
 
 🛠 Tools & Process
 I use AI-generated images of anime girls.
 
 Then I retouch the images to make them visually suitable for the ROM hack.
+
+💖 Passion Project
+This project is made purely out of love and passion — no profit is involved.
+If you'd like to support or donate, you're very welcome, but it's completely optional.
+Your ideas, feedback, and encouragement mean a lot already. 🙏
 
 📌 Notes
 This is a personal hobby project I’m working on while studying at university.
