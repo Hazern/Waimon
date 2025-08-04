@@ -7,7 +7,7 @@ You’re welcome to suggest which anime girls could replace which Pokémon!
 Carvanha → Gawr Gura (normal costume)
 
 Sharpedo → Gawr Gura (bikini version)
-.
+
 ⚠️ No explicit NSFW content will be used in this project.
 However, fanservice-heavy characters (like swimsuit, maid, bikinis or revealing outfits) are still acceptable. 😜
 
