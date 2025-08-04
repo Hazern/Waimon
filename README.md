@@ -17,7 +17,7 @@ I use AI-generated images of anime girls.
 Then I retouch the images to make them visually suitable for the ROM hack.
 
 💖 Passion Project
-This project is made purely out of love and passion — no profit is involved.
+This project is made purely out of love and passion no profit is involved.
 If you'd like to support or donate, you're very welcome, but it's completely optional.
 Your ideas, feedback, and encouragement mean a lot already. 🙏
 
