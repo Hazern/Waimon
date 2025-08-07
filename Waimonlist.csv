@@ -37,8 +37,8 @@ Clefairy,,,,,
 Clefable,,,,,
 Vulpix,,,,,
 Ninetales,,,,,
-Jigglypuff,Honoka-R,Normal  ,,(doaxvv) swimsuit 1,Stats and move change
-Wigglytuff,Honoka-SR,Normal  ,,(doaxvv) swimsuit 2,Stats and move change
+Jigglypuff,Honoka-R,Normal  ,,(Doaxvv) swimsuit 1,Stats and move change
+Wigglytuff,Honoka-SR,Normal  ,,(Doaxvv) swimsuit 2,Stats and move change
 Zubat,,,,,
 Golbat,,,,,
 Oddish,,,,,
@@ -127,8 +127,8 @@ Electabuzz,,,,,
 Magmar,,,,,
 Pinsir,,,,,
 Tauros,,,,,
-Magikarp,,,,,
-Gyarados,,,,,
+Magikarp,Houshou marine-C,Water  ,,(Hololive) normal,
+Gyarados,Houshou marine-SR,Water  ,Dark  ,(Hololive) bikini,Stats and move change
 Lapras,,,,,
 Ditto,,,,,
 Eevee,,,,,
@@ -172,7 +172,7 @@ Chinchou,,,,,
 Lanturn,,,,,
 Pichu,,,,,
 Cleffa,,,,,
-Igglybuff,Honoka-C,Normal  ,,(doaxvv) normal,Stats and move change
+Igglybuff,Honoka-C,Normal  ,,(Doaxvv) normal,Stats and move change
 Togepi,,,,,
 Togetic,,,,,
 Natu,,,,,
@@ -198,7 +198,7 @@ Espeon,,,,,
 Umbreon,,,,,
 Murkrow,,,,,
 Slowking,,,,,
-Misdreavus,Marie-SR,Dark  ,Steel  ,(doaxvv) normal,Stats and move change
+Misdreavus,Marie-SR,Dark  ,Steel  ,(Doaxvv) normal,Stats and move change
 Unown,,,,,
 Wobbuffet,,,,,
 Girafarig,,,,,
@@ -241,9 +241,9 @@ Elekid,,,,,
 Magby,,,,,
 Miltank,,,,,
 Blissey,,,,,
-Raikou,,,,,
-Entei,,,,,
-Suicune,,,,,
+Raikou,Yoruichi-L,Electric  ,Dark  ,(Bleach) God speed,Stats and move change
+Entei,Rangiku-L,Fire  ,Ghost  ,(Bleach) normal,Stats and move change
+Suicune,Tier harrible-L,Water  ,Ice  ,(Bleach) choptop,Stats and move change
 Larvitar,,,,,
 Pupitar,,,,,
 Tyranitar,,,,,
@@ -263,11 +263,11 @@ Poochyena,Giovanna-C,Dark  ,,(Guilty gear) normal,Move change
 Mightyena,Giovanna-SR,Dark  ,Electric  ,(Guilty gear) brazil bikini,Stats and move change
 Zigzagoon,Asuna-R,Normal  ,,,Stats and move change
 Linoone,Asuna-SR,Normal  ,Electric  ,,Stats and move change
-Wurmple,Nyotengu-C,Dark  ,,(doaxvv),Stats and move change
-Silcoon,Nyotengu-R-A,Dark  ,,(doaxvv),Stats and move change
-Beautifly,Nyotengu-SR-A,Dark  ,,(doaxvv),Stats and move change
-Cascoon,Nyotengu-R-B,Dark  ,,(doaxvv),Stats and move change
-Dustox,Nyotengu-SR-B,Dark  ,,(doaxvv),Stats and move change
+Wurmple,Nyotengu-C,Dark  ,,(Doaxvv),Stats and move change
+Silcoon,Nyotengu-R-A,Dark  ,,(Doaxvv),Stats and move change
+Beautifly,Nyotengu-SR-A,Dark  ,,(Doaxvv),Stats and move change
+Cascoon,Nyotengu-R-B,Dark  ,,(Doaxvv),Stats and move change
+Dustox,Nyotengu-SR-B,Dark  ,,(Doaxvv),Stats and move change
 Lotad,,,,,
 Lombre,,,,,
 Ludicolo,,,,,
@@ -278,9 +278,9 @@ Taillow,,,,,
 Swellow,,,,,
 Wingull,,,,,
 Pelipper,,,,,
-Ralts,,Psychic,,,
-Kirlia,,Psychic,,,
-Gardevoir,,Psychic,,,
+Ralts,Nico Robin-C,Psychic,Grass  ,(One piece) normal,
+Kirlia,Nico Robin-R,Psychic,Grass  ,(One piece) blue chop top sweater bikini bottom,
+Gardevoir,Nico Robin-SR,Psychic,Grass  ,(One piece) splash style,
 Surskit,,,,,
 Masquerain,,,,,
 Shroomish,,,,,
@@ -288,9 +288,9 @@ Breloom,,,,,
 Slakoth,,,,,
 Vigoroth,,,,,
 Slaking,,,,,
-Nincada,Ayane-C,Bug  ,,(doaxvv) normal,Stats change
-Ninjask,Ayane-R,Bug  ,Dark  ,(doaxvv) swimsuit 1,Stats and move change
-Shedinja,Ayane-SR,Bug  ,Ghost  ,(doaxvv) swimsuit 2,Stats and move change
+Nincada,Ayane-C,Bug  ,,(Doaxvv) normal,Stats change
+Ninjask,Ayane-R,Bug  ,Dark  ,(Doaxvv) swimsuit 1,Stats and move change
+Shedinja,Ayane-SR,Bug  ,Ghost  ,(Doaxvv) swimsuit 2,Stats and move change
 Whismur,,,,,
 Loudred,,,,,
 Exploud,,,,,
@@ -298,15 +298,15 @@ Makuhita,Nen Master-R,Fighting  ,,(DNFDuel) normal,
 Hariyama,Nen Master-SR,Fighting  ,,(DNFDuel) bikini,
 Azurill,,,,,
 Nosepass,,,,,
-Skitty,,,,,
-Delcatty,,,,,
+Skitty,Tamaki-C,Water  ,,(Doaxvv) normal,Move change
+Delcatty,Tamaki-SR,Water  ,,(Doaxvv) swimsuit,Move change
 Sableye,,Dark,Ghost,,
 Mawile,,Steel,,,
 Aron,,,,,
 Lairon,,,,,
 Aggron,,Steel,Rock,,
-Meditite,Millia-C,Fighting  ,Psychic  ,(Guilty gear) normal,Stats and move change
-Medicham,Millia-SR,Fighting  ,Psychic  ,(Guilty gear) Crop Jacket with micro bikini,Stats and move change
+Meditite,Millia-C,Fighting  ,Psychic  ,(Guilty gear) normal,Move change
+Medicham,Millia-SR,Fighting  ,Psychic  ,(Guilty gear) Crop Jacket with micro bikini,Move change
 Electrike,,,,,
 Manectric,,,,,
 Plusle,Nozomi-SR,Electric  ,,(Blue Archive) normal,Stats and move change
@@ -316,15 +316,15 @@ Illumise,,,,,
 Roselia,,,,,
 Gulpin,,,,,
 Swalot,,,,,
-Carvanha,Gawr gura-C,Water  ,Dark  ,(Hololive) normal costume,
+Carvanha,Gawr gura-C,Water  ,Dark  ,(Hololive) normal,
 Sharpedo,Gawr gura-SR,Water  ,Dark  ,(Hololive) bikini,
 Wailmer,,,,,
 Wailord,,,,,
 Numel,,,,,
 Camerupt,,,,,
 Torkoal,,,,,
-Spoink,,,,,
-Grumpig,,,,,
+Spoink,Bonney-C,Normal  ,Psychic  ,(One piece) normal,Move change
+Grumpig,Bonney-SR,Normal  ,Psychic  ,(One piece) figure bikini,Move change
 Spinda,,,,,
 Trapinch,,,,,
 Vibrava,,,,,
@@ -347,16 +347,16 @@ Lileep,,,,,
 Cradily,,,,,
 Anorith,,,,,
 Armaldo,,,,,
-Feebas,Tamaki-C,Water  ,,(doaxvv) normal,
-Milotic,Tamaki-SR,Water  ,,(doaxvv) swimsuit,
-Castform,Nami-SR,Normal  ,,(One piece) bikini 1,Stats and move change
+Feebas,Hancock-R,Psychic  ,Water  ,(One piece) violet dress,Move change
+Milotic,Hancock-SR,Psychic  ,Water  ,(One piece) red dress with center open,Move change
+Castform,Nami-SR,Normal  ,,(One piece) bikini,Stats and move change
 Kecleon,,,,,
 Shuppet,Jack-o-Valentine-C,Ghost  ,,(Guilty gear) normal,Stats change
 Banette,Jack-o-Valentine-SR,Ghost  ,,(Guilty gear) valentine gift,Stats and move change
 Duskull,,,,,
 Dusclops,,,,,
 Tropius,,,,,
-Chimecho,Amy-SR,Psychic  ,,(doaxvv) normal,Stats and move change
+Chimecho,Amy-SR,Psychic  ,,(Doaxvv) normal,Stats and move change
 Absol,Baiken-SR,Dark  ,,(Guilty gear) normal,Stats and move change
 Wynaut,,,,,
 Snorunt,,,,,
@@ -378,8 +378,8 @@ Metagross,,,,,
 Regirock,,,,,
 Regice,,,,,
 Registeel,,,,,
-Latias,,,,,
-Latios,,,,,
+Latias,Vivi-L,Water  ,Psychic  ,(One piece) bikini,Stats and move change
+Latios,Rebecca-L,Dragon  ,Steel  ,(One piece) bikini warrior,Stats and move change
 Kyogre,,Water,,,
 Groudon,,Ground,,,
 Rayquaza,,Dragon,Flying,,
