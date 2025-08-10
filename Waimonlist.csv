@@ -153,9 +153,9 @@ Mew,,,,,
 Chikorita,,,,,
 Bayleef,,,,,
 Meganium,,,,,
-Cyndaquil,Yoko-C,Fire  ,,(gurren lagann) normal,
-Quilava,Yoko-R,Fire  ,Fighting  ,(gurren lagann) swimsuit 1,Stats and move change
-Typhlosion,Yoko-SR,Fire  ,Fighting  ,(gurren lagann) swimsuit 2,Stats and move change
+Cyndaquil,Yoko-C,Fire  ,,(Gurren lagann) normal,
+Quilava,Yoko-R,Fire  ,Fighting  ,(Gurren lagann) swimsuit 1,Stats and move change
+Typhlosion,Yoko-SR,Fire  ,Fighting  ,(Gurren lagann) swimsuit 2,Stats and move change
 Totodile,,,,,
 Croconaw,,,,,
 Feraligatr,,,,,
@@ -195,7 +195,7 @@ Yanma,,,,,
 Wooper,,,,,
 Quagsire,,,,,
 Espeon,,,,,
-Umbreon,,,,,
+Umbreon,Karin-SR,Dark  ,Flying  ,(Blue Arhive) bunny girl,Stats and move change
 Murkrow,,,,,
 Slowking,,,,,
 Misdreavus,Marie-SR,Dark  ,Steel  ,(Doaxvv) normal,Stats and move change
@@ -221,8 +221,8 @@ Magcargo,,,,,
 Swinub,,,,,
 Piloswine,,,,,
 Corsola,,,,,
-Remoraid,,,,,
-Octillery,,,,,
+Remoraid,Toki-R,Water  ,,(Blue Archive) normal,
+Octillery,Toki-SR,Water  ,Electric  ,(Blue Archive) bunny girl,Stats and move change
 Delibird,,,,,
 Mantine,,,,,
 Skarmory,,,,,
@@ -259,8 +259,8 @@ Blaziken,Tamaki-SR,Fire  ,Fighting  ,(Fire force) main costume with open jacket,
 Mudkip,,Water,Ground,,
 Marshtomp,,Water,Ground,,
 Swampert,,Water,Ground,,
-Poochyena,Giovanna-C,Dark  ,,(Guilty gear) normal,Move change
-Mightyena,Giovanna-SR,Dark  ,Electric  ,(Guilty gear) brazil bikini,Stats and move change
+Poochyena,Shiroko-R,Dark  ,,(Blue Archive) normal,Stats change
+Mightyena,Shiroko-SR,Dark  ,Electric  ,(Blue Archive) swimsuit,Stats and move change
 Zigzagoon,Asuna-R,Normal  ,,,Stats and move change
 Linoone,Asuna-SR,Normal  ,Electric  ,,Stats and move change
 Wurmple,Nyotengu-C,Dark  ,,(Doaxvv),Stats and move change
@@ -307,8 +307,8 @@ Lairon,,,,,
 Aggron,,Steel,Rock,,
 Meditite,Millia-C,Fighting  ,Psychic  ,(Guilty gear) normal,Move change
 Medicham,Millia-SR,Fighting  ,Psychic  ,(Guilty gear) Crop Jacket with micro bikini,Move change
-Electrike,,,,,
-Manectric,,,,,
+Electrike,Giovanna-C,Dark  ,,(Guilty gear) normal,Move change
+Manectric,Giovanna-SR,Dark  ,Electric  ,(Guilty gear) brazil bikini,Stats and move change
 Plusle,Nozomi-SR,Electric  ,,(Blue Archive) normal,Stats and move change
 Minun,Hikari-SR,Electric  ,,(Blue Archive) normal,Stats and move change
 Volbeat,,,,,
@@ -331,10 +331,10 @@ Vibrava,,,,,
 Flygon,,Ground,Dragon,,
 Cacnea,,,,,
 Cacturne,,,,,
-Swablu,,,,,
-Altaria,,Dragon,Flying,,
+Swablu,Uta-R,Psychic  ,,(One piece) normal,Stats and move change
+Altaria,Uta-SR,Psychic  ,Flying,(One piece) final form,Stats and move change
 Zangoose,,,,,
-Seviper,,,,,
+Seviper,Reiji-SR,Poison  ,Steel  ,(One piece) normal,Stats and move change
 Lunatone,,,,,
 Solrock,,,,,
 Barboach,,,,,
@@ -377,7 +377,7 @@ Metang,,,,,
 Metagross,,,,,
 Regirock,,,,,
 Regice,,,,,
-Registeel,,,,,
+Registeel,Lilith,Steel  ,Electric  ,(One piece) normal,Stats and move change
 Latias,Vivi-L,Water  ,Psychic  ,(One piece) bikini,Stats and move change
 Latios,Rebecca-L,Dragon  ,Steel  ,(One piece) bikini warrior,Stats and move change
 Kyogre,,Water,,,
