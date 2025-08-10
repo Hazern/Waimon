@@ -114,14 +114,14 @@ Rhydon,,,,,
 Chansey,,,,,
 Tangela,,,,,
 Kangaskhan,,,,,
-Horsea,,,,,
-Seadra,,,,,
+Horsea,Taihou-C,Water  ,,(Azur lane) normal,
+Seadra,Taihou-R,Water  ,Dark  ,(Azur lane) racequeen,Stats and move change
 Goldeen,,,,,
 Seaking,,,,,
 Staryu,,,,,
 Starmie,,,,,
 Mr. Mime,,,,,
-Scyther,,,,,
+Scyther,Tsurugi-R,Dark  ,,(Blue Arhive) normal,Move change
 Jynx,,,,,
 Electabuzz,,,,,
 Magmar,,,,,
@@ -156,9 +156,9 @@ Meganium,,,,,
 Cyndaquil,Yoko-C,Fire  ,,(Gurren lagann) normal,
 Quilava,Yoko-R,Fire  ,Fighting  ,(Gurren lagann) swimsuit 1,Stats and move change
 Typhlosion,Yoko-SR,Fire  ,Fighting  ,(Gurren lagann) swimsuit 2,Stats and move change
-Totodile,,,,,
-Croconaw,,,,,
-Feraligatr,,,,,
+Totodile,Moe-C,Water  ,,(Blue Arhive) normal,
+Croconaw,Moe-R,Water  ,Fire  ,(Blue Arhive) sport wear,Stats and move change
+Feraligatr,Moe-SR,Water  ,Fire  ,(Blue Arhive) swimsuit,Stats and move change
 Sentret,,,,,
 Furret,,,,,
 Hoothoot,,,,,
@@ -194,7 +194,7 @@ Sunflora,,,,,
 Yanma,,,,,
 Wooper,,,,,
 Quagsire,,,,,
-Espeon,,,,,
+Espeon,Kisaki-SR,Psychic  ,,(Blue Arhive) normal,
 Umbreon,Karin-SR,Dark  ,Flying  ,(Blue Arhive) bunny girl,Stats and move change
 Murkrow,,,,,
 Slowking,,,,,
@@ -210,7 +210,7 @@ Steelix,,,,,
 Snubbull,,,,,
 Granbull,,,,,
 Qwilfish,,,,,
-Scizor,,,,,
+Scizor,Tsurugi-SR,Dark  ,Steel  ,(Blue Arhive) normal,Move change
 Shuckle,,,,,
 Heracross,,,,,
 Sneasel,,,,,
@@ -228,7 +228,7 @@ Mantine,,,,,
 Skarmory,,,,,
 Houndour,I-no-C,Dark  ,Fire  ,(Guilty gear) normal,
 Houndoom,I-no-SR,Dark  ,Fire  ,(Guilty gear) Shamisen I-No or Slingshot bikini,
-Kingdra,,,,,
+Kingdra,Taihou-SR,Water,Dark  ,(Azur lane) bunny girl,Move change
 Phanpy,,,,,
 Donphan,,,,,
 Porygon2,,,,,
@@ -261,13 +261,13 @@ Marshtomp,,Water,Ground,,
 Swampert,,Water,Ground,,
 Poochyena,Shiroko-R,Dark  ,,(Blue Archive) normal,Stats change
 Mightyena,Shiroko-SR,Dark  ,Electric  ,(Blue Archive) swimsuit,Stats and move change
-Zigzagoon,Asuna-R,Normal  ,,,Stats and move change
-Linoone,Asuna-SR,Normal  ,Electric  ,,Stats and move change
-Wurmple,Nyotengu-C,Dark  ,,(Doaxvv),Stats and move change
-Silcoon,Nyotengu-R-A,Dark  ,,(Doaxvv),Stats and move change
-Beautifly,Nyotengu-SR-A,Dark  ,,(Doaxvv),Stats and move change
-Cascoon,Nyotengu-R-B,Dark  ,,(Doaxvv),Stats and move change
-Dustox,Nyotengu-SR-B,Dark  ,,(Doaxvv),Stats and move change
+Zigzagoon,Asuna-R,Normal  ,,(Blue Archive) normal,Stats and move change
+Linoone,Asuna-SR,Normal  ,Electric  ,(Blue Archive) bunny girl,Stats and move change
+Wurmple,Nyotengu-C,Dark  ,,(Doaxvv) normal,Stats and move change
+Silcoon,Nyotengu-R-A,Dark  ,,(Doaxvv) black strive bikini with wing,Stats and move change
+Beautifly,Nyotengu-SR-A,Dark  ,,(Doaxvv) sakimichan bikini style,Stats and move change
+Cascoon,Nyotengu-R-B,Dark  ,,(Doaxvv) doaxvv bikini 1,Stats and move change
+Dustox,Nyotengu-SR-B,Dark  ,,(Doaxvv) doaxvv bikini 1,Stats and move change
 Lotad,,,,,
 Lombre,,,,,
 Ludicolo,,,,,
@@ -339,9 +339,9 @@ Lunatone,,,,,
 Solrock,,,,,
 Barboach,,,,,
 Whiscash,,,,,
-Corphish,,,,,
-Crawdaunt,,,,,
-Baltoy,Ramlethal-C,Steel  ,Psychic  ,(Guilty gear) normal,Move change
+Corphish,New jersey-R,Water,Dragon  ,(Azur lane) normal,Stats and move change
+Crawdaunt,New jersey-SR,Water,Dragon  ,(Azur lane) bikini,Stats and move change
+Baltoy,Ramlethal-R,Steel  ,Psychic  ,(Guilty gear) normal,Move change
 Claydol,Ramlethal-SR,Steel  ,Psychic  ,(Guilty gear) reverse bunny suit,Stats and move change
 Lileep,,,,,
 Cradily,,,,,
@@ -377,7 +377,7 @@ Metang,,,,,
 Metagross,,,,,
 Regirock,,,,,
 Regice,,,,,
-Registeel,Lilith,Steel  ,Electric  ,(One piece) normal,Stats and move change
+Registeel,Lilith-L,Steel  ,Electric  ,(One piece) normal,Stats and move change
 Latias,Vivi-L,Water  ,Psychic  ,(One piece) bikini,Stats and move change
 Latios,Rebecca-L,Dragon  ,Steel  ,(One piece) bikini warrior,Stats and move change
 Kyogre,,Water,,,
